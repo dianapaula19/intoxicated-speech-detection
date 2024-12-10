@@ -5,3 +5,4 @@ soundfile
 matplotlib
 scikit-learn
 tensorflow
+seaborn

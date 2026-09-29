@@ -4,7 +4,7 @@ Can a model tell from a short recording whether the speaker is drunk? This proje
 MFCC features from the **Alcohol Language Corpus (ALC)**, 162 German speakers recorded both sober
 and at a blood alcohol concentration (BAC) of roughly 0.3–1.5 per mille.
 
-Course project for ELEC-E5510 *Speech Recognition* at Aalto University (autumn 2024).
+Course project for *Speech Recognition* at Aalto University (autumn 2024).
 
 ![Speakers in ALC](docs/speakers.png)
 

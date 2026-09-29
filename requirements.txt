@@ -1,8 +1,9 @@
-librosa
+librosa>=0.10
+soundfile
 numpy
 pandas
-soundfile
+scikit-learn>=1.3
+tensorflow>=2.16
 matplotlib
-scikit-learn
-tensorflow
-seaborn
+jupyter
+pytest
